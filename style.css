@@ -1,0 +1,20 @@
+#Home {
+  padding-top: 6rem;
+  background-color: #83ee83;
+  text-align: center;
+}
+
+#Kolaborasi{
+  background-color:#83ee83 ;
+}
+section{
+  padding-top: 5rem;
+  cursor: pointer;
+}
+footer{
+  background-color: #198754;
+  /* padding-top: 5; */
+  text-decoration-color: white;
+  padding-bottom: 3rem;
+  text-align: center;
+}

@@ -1,0 +1,107 @@
+
+header{
+    background-color:gray;
+    text-align:center;
+    border-radius: 15%;
+    box-shadow: color(black) 5px 3px 6px;
+    
+}
+header:hover{
+    background-color: blue;
+}
+table{
+    width: 100%;
+}
+td{
+    width: 50%;
+    background-color: rgb(134, 171, 169);
+    border-radius: 10%;
+    box-shadow: color(black) 5px 3px 6px;
+    background-image:url(.jpg) ;
+    background-size: cover;
+}
+td:hover{
+    background-color:blue;
+}
+header img {
+    width: 200px;
+    border-radius: 50%;
+}
+footer{
+    background-color: rgb(122, 141, 141);
+    text-align:center;
+}
+footer:hover{
+    background-color: blue;
+}
+#left-side {
+    background-color:rgb(122, 141,141);
+    height: auto;
+    width: 30%;
+    text-align: center;
+}
+#left-side:hover{
+    background-color: blue;
+    height: auto;
+    width: 30%;
+    text-align: center;
+}
+#left-side span{
+    background-color: blue;
+}
+nav{
+    background-color: black;
+    color: crimson;
+    width: 100%;
+    height: 30px;
+}
+nav a{
+    color: crimson;
+}
+
+.right-side {
+    background-color:rgb(122, 141, 141);
+    height: auto;
+    width: 30px;
+    text-align: center;
+}
+.right-side span{
+    background-color: blue;
+}
+
+.imag img{
+    width: 30px;
+    height: 30px;
+    
+}
+.ff span{
+    display: inline; 
+    background-color:blue ;
+    text-align: center;
+}
+.kk span{
+    background-color: blue;
+}
+body table{
+    border-radius: 10%;
+    background-color: black;
+}
+body{
+    background-image:url(4.jpg) ;
+}
+.p{
+    height: auto;
+    width: 30%;
+    text-align: center;
+    background-color: rgb(122, 141, 141);
+}
+.p span{
+    background-color: blue;
+}
+.sosial{
+    text-align: center;
+}
+.hobi{
+    text-align: center;
+    
+}
