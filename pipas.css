@@ -1,16 +1,24 @@
 #pengertian{
-    padding-top: 5rem;
-    background-color: gainsboro;
+    padding-top: 4rem;
+    background-color: #83ee83;
   }
 #sifat{
 
 }
 #perubahan{
-  
+  background-color: #83ee83;
+  padding-top: 3rem
 }
 #macam{
-
+  background-color:white;
 }
-#masukan{
-  
+#masukkan{
+  background-color:#198754 ;
+  text-decoration-color: white;
+  padding-bottom: 3rem;
+  text-align: center;
+}
+section{
+  padding-top: 5rem;
+  cursor: pointer;
 }
